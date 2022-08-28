@@ -1,3 +1,5 @@
+// Given an integral number, determine if it's a square number:
+
 var isSquare = function(n){
     //Getting square root of n
     let squareRoot = Math.sqrt(n)
