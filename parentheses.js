@@ -25,7 +25,7 @@ function validParentheses(parenStr) {
     }
     if (parenCount < 0) {
       return false;
-    } 
+    }
   }
   return parenCount == 0;
 }
