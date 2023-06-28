@@ -13,7 +13,7 @@
 // For languages with mutable strings, the inputs should not be mutated.
 
 // Protip: If you are trying to figure out why a string of parentheses is invalid, paste the parentheses into the code editor, and let the code highlighting show you!
-
+//
 function validParentheses(parenStr) {
   let parenCount = 0;
   for (i = 0; i < parenStr.length; i++) {
